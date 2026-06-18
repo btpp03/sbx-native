@@ -4,7 +4,7 @@
 
 ### serv00 | ct8 | HostUno 一键安装脚本
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/eooce//sbx-native/serv00/ct8/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/eooce/sbx-native/serv00/ct8/install.sh)
 
 ```
 
